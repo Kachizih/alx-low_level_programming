@@ -11,7 +11,7 @@ nclude "main.h"
  *
  */
 
-void swap_int(int *i, int *j);
+void swap_int(int *i, int *j)
 
 {
 
